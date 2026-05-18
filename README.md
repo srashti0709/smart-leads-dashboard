@@ -6,7 +6,7 @@ A full-stack MERN application for managing and tracking leads efficiently with a
 
 ## 🌐 Live Links
 
-- 🔗 Frontend: https://your-vercel-url.vercel.app
+- 🔗 Frontend: https://smart-leads-dashboard-inky.vercel.app/login
 - 🔗 Backend API: https://smart-leads-dashboard-dfxv.onrender.com/api
 
 ---
