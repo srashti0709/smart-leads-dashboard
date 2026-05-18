@@ -2,7 +2,7 @@ import axios from "axios";
 import { getToken } from "../utils/token";
 
 const api = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://smart-leads-dashboard-dfxv.onrender.com/api",
 });
 
 // attach token automatically
