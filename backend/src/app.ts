@@ -13,5 +13,7 @@ app.use("/api/leads", leadRoutes);
 app.get("/", (req, res) => {
   res.send("Smart Leads API is running 🚀");
 });
-
+app.get("/api", (req, res) => {
+  res.json({ message: "API is running 🚀" });
+});
 export default app;
